@@ -1,3 +1,0 @@
-FROM nginx:latest
-COPY index.html E:\DITISS-PROJECT\index.html
-EXPOSE 80
